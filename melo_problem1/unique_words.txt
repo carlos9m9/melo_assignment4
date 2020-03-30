@@ -1,0 +1,13 @@
+environment
+food
+foreign
+little
+local
+machine
+magazine
+phone
+person
+mango
+banana
+apple
+music
